@@ -1,0 +1,8 @@
+* CONTAINERS: These are used to contain or manage objects of certain kind
+Containers library in STL provides such containers that use to create data structures like arrays, linked list and
+trees, etc.
+* VECTORS can be used to create dynamic arrays of data types int, float, char, etc.
+* ALGORITHM: Algorithms acts on containers it is a mean by which we performs sorting, searching and transforming the
+contents of the containers. Algorithm library contains the built in functions which performs complex algorithms
+which are performed on data structures
+* ITERATORS: Iterators are like bridge between vectors and algorithms. They actually points to the containers
